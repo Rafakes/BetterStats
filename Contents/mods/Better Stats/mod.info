@@ -1,0 +1,7 @@
+name=Better Stats
+id=BetterStats
+author=rafa_
+modversion=1.0.0
+versionMin=42.16.0
+description=Build 42 character stats HUD with a compact default display and an optional detailed sandbox panel. Designed to stay client-driven and multiplayer-safe.
+poster=poster.png

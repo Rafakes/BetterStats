@@ -1,0 +1,16 @@
+{
+  "Sandbox_BetterStats_01_Basic": "Better Stats - Basis",
+  "Sandbox_BetterStats_02_Tracking": "Better Stats - Verfolgung",
+  "Sandbox_BetterStats_EnableCompactHUD": "Kompaktes HUD aktivieren",
+  "Sandbox_BetterStats_EnableCompactHUD_tooltip": "Hauptschalter für das kleine Standard-HUD. Empfohlen EIN.",
+  "Sandbox_BetterStats_AllowDetailedPanel": "Detailfenster erlauben",
+  "Sandbox_BetterStats_AllowDetailedPanel_tooltip": "Standardmäßig deaktiviert. Wenn aktiviert, können Spieler das größere Analysefenster bei Bedarf öffnen, ohne dauerhaften Serververkehr zu erzeugen.",
+  "Sandbox_BetterStats_AllowHUDDrag": "HUD-Ziehen erlauben",
+  "Sandbox_BetterStats_AllowHUDDrag_tooltip": "Erlaubt Spielern, das kompakte HUD mit der Maus zu bewegen und die Position lokal zu speichern.",
+  "Sandbox_BetterStats_ShowCompactStatusBars": "Kompakte Statusleisten anzeigen",
+  "Sandbox_BetterStats_ShowCompactStatusBars_tooltip": "Zeigt kleine Leisten für Hunger, Durst und Ausdauer im kompakten HUD.",
+  "Sandbox_BetterStats_TrackDistance": "Zurückgelegte Entfernung verfolgen",
+  "Sandbox_BetterStats_TrackDistance_tooltip": "Clientseitige Distanzverfolgung für diesen Charakter. Sehr leichtgewichtig und sicher für Multiplayer.",
+  "Sandbox_BetterStats_TrackCalories": "Kalorienbilanz verfolgen",
+  "Sandbox_BetterStats_TrackCalories_tooltip": "Verfolgt aufgenommene und verbrannte Kalorien aus den lokalen Ernährungsdaten des Spielers, wenn verfügbar."
+}

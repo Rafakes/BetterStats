@@ -1,0 +1,16 @@
+{
+  "Sandbox_BetterStats_01_Basic": "Better Stats - พื้นฐาน",
+  "Sandbox_BetterStats_02_Tracking": "Better Stats - การติดตาม",
+  "Sandbox_BetterStats_EnableCompactHUD": "เปิดใช้ HUD แบบกะทัดรัด",
+  "Sandbox_BetterStats_EnableCompactHUD_tooltip": "สวิตช์หลักสำหรับ HUD ขนาดเล็กเริ่มต้น แนะนำให้เปิด",
+  "Sandbox_BetterStats_AllowDetailedPanel": "อนุญาตแผงรายละเอียด",
+  "Sandbox_BetterStats_AllowDetailedPanel_tooltip": "ปิดเป็นค่าเริ่มต้น เมื่อเปิด ผู้เล่นสามารถเปิดแผงวิเคราะห์ขนาดใหญ่ได้ตามต้องการโดยไม่เพิ่มทราฟฟิกเซิร์ฟเวอร์ตลอดเวลา",
+  "Sandbox_BetterStats_AllowHUDDrag": "อนุญาตให้ลาก HUD",
+  "Sandbox_BetterStats_AllowHUDDrag_tooltip": "ให้ผู้เล่นย้าย HUD แบบกะทัดรัดด้วยเมาส์และบันทึกตำแหน่งไว้ในเครื่อง",
+  "Sandbox_BetterStats_ShowCompactStatusBars": "แสดงแถบสถานะแบบกะทัดรัด",
+  "Sandbox_BetterStats_ShowCompactStatusBars_tooltip": "แสดงแถบความหิว ความกระหาย และสตามินาขนาดเล็กบน HUD แบบกะทัดรัด",
+  "Sandbox_BetterStats_TrackDistance": "ติดตามระยะทางที่เดินทาง",
+  "Sandbox_BetterStats_TrackDistance_tooltip": "ติดตามระยะทางของตัวละครนี้ฝั่งไคลเอนต์ เบามากและปลอดภัยสำหรับมัลติเพลเยอร์",
+  "Sandbox_BetterStats_TrackCalories": "ติดตามสมดุลแคลอรี่",
+  "Sandbox_BetterStats_TrackCalories_tooltip": "ติดตามแคลอรี่ที่ได้รับและเผาผลาญจากข้อมูลโภชนาการในเครื่องของผู้เล่นเมื่อมีข้อมูล"
+}

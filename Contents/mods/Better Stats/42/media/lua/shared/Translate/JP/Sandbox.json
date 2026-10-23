@@ -1,0 +1,16 @@
+{
+  "Sandbox_BetterStats_01_Basic": "Better Stats - 基本",
+  "Sandbox_BetterStats_02_Tracking": "Better Stats - 追跡",
+  "Sandbox_BetterStats_EnableCompactHUD": "コンパクトHUDを有効化",
+  "Sandbox_BetterStats_EnableCompactHUD_tooltip": "小さなデフォルトHUDのメインスイッチ。オン推奨。",
+  "Sandbox_BetterStats_AllowDetailedPanel": "詳細パネルを許可",
+  "Sandbox_BetterStats_AllowDetailedPanel_tooltip": "デフォルトではオフ。オンにすると、プレイヤーは必要な時だけ大きな分析パネルを開け、常時のサーバー通信は増えません。",
+  "Sandbox_BetterStats_AllowHUDDrag": "HUDのドラッグを許可",
+  "Sandbox_BetterStats_AllowHUDDrag_tooltip": "プレイヤーがマウスでコンパクトHUDを移動し、位置をローカルに保存できます。",
+  "Sandbox_BetterStats_ShowCompactStatusBars": "コンパクトバーを表示",
+  "Sandbox_BetterStats_ShowCompactStatusBars_tooltip": "コンパクトHUDに空腹、渇き、スタミナの小さなバーを表示します。",
+  "Sandbox_BetterStats_TrackDistance": "移動距離を追跡",
+  "Sandbox_BetterStats_TrackDistance_tooltip": "このキャラクターのクライアント側距離追跡。非常に軽く、マルチプレイでも安全です。",
+  "Sandbox_BetterStats_TrackCalories": "カロリー収支を追跡",
+  "Sandbox_BetterStats_TrackCalories_tooltip": "利用可能な場合、プレイヤーのローカル栄養データから摂取・消費カロリーを追跡します。"
+}

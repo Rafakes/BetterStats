@@ -1,0 +1,16 @@
+{
+  "Sandbox_BetterStats_01_Basic": "Better Stats - Basico",
+  "Sandbox_BetterStats_02_Tracking": "Better Stats - Rastreamento",
+  "Sandbox_BetterStats_EnableCompactHUD": "Ativar HUD compacto",
+  "Sandbox_BetterStats_EnableCompactHUD_tooltip": "Chave principal do HUD pequeno padrao. Recomendado ligado.",
+  "Sandbox_BetterStats_AllowDetailedPanel": "Permitir painel detalhado",
+  "Sandbox_BetterStats_AllowDetailedPanel_tooltip": "Desligado por padrao. Quando ativado, os jogadores podem abrir o painel maior sob demanda sem gerar trafego constante no servidor.",
+  "Sandbox_BetterStats_AllowHUDDrag": "Permitir arrastar o HUD",
+  "Sandbox_BetterStats_AllowHUDDrag_tooltip": "Permite mover o HUD compacto com o mouse e salvar a posicao localmente.",
+  "Sandbox_BetterStats_ShowCompactStatusBars": "Mostrar barras compactas",
+  "Sandbox_BetterStats_ShowCompactStatusBars_tooltip": "Mostra as pequenas barras de fome, sede e estamina no HUD compacto.",
+  "Sandbox_BetterStats_TrackDistance": "Rastrear distancia percorrida",
+  "Sandbox_BetterStats_TrackDistance_tooltip": "Rastreamento local da distancia deste personagem. Muito leve e seguro para multiplayer.",
+  "Sandbox_BetterStats_TrackCalories": "Rastrear saldo calorico",
+  "Sandbox_BetterStats_TrackCalories_tooltip": "Rastreia calorias ingeridas e gastas a partir da nutricao local do jogador quando disponivel."
+}

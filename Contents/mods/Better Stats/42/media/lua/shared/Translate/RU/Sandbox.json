@@ -1,0 +1,16 @@
+{
+  "Sandbox_BetterStats_01_Basic": "Better Stats - Основное",
+  "Sandbox_BetterStats_02_Tracking": "Better Stats - Отслеживание",
+  "Sandbox_BetterStats_EnableCompactHUD": "Включить компактный HUD",
+  "Sandbox_BetterStats_EnableCompactHUD_tooltip": "Главный переключатель маленького HUD по умолчанию. Рекомендуется включить.",
+  "Sandbox_BetterStats_AllowDetailedPanel": "Разрешить подробную панель",
+  "Sandbox_BetterStats_AllowDetailedPanel_tooltip": "По умолчанию выключено. Если включено, игроки могут открывать большую аналитическую панель по запросу без постоянного трафика на сервер.",
+  "Sandbox_BetterStats_AllowHUDDrag": "Разрешить перетаскивание HUD",
+  "Sandbox_BetterStats_AllowHUDDrag_tooltip": "Позволяет игрокам перемещать компактный HUD мышью и сохранять позицию локально.",
+  "Sandbox_BetterStats_ShowCompactStatusBars": "Показать компактные полосы",
+  "Sandbox_BetterStats_ShowCompactStatusBars_tooltip": "Показывает маленькие полосы голода, жажды и выносливости на компактном HUD.",
+  "Sandbox_BetterStats_TrackDistance": "Отслеживать пройденную дистанцию",
+  "Sandbox_BetterStats_TrackDistance_tooltip": "Локальное отслеживание дистанции для этого персонажа. Очень лёгкое и безопасное для мультиплеера.",
+  "Sandbox_BetterStats_TrackCalories": "Отслеживать баланс калорий",
+  "Sandbox_BetterStats_TrackCalories_tooltip": "Отслеживает полученные и сожжённые калории из локальных данных питания игрока, если они доступны."
+}

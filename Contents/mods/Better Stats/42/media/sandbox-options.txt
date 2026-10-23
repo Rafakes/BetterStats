@@ -1,0 +1,49 @@
+VERSION = 1,
+
+option BetterStats.EnableCompactHUD
+{
+    type = boolean,
+    default = true,
+    page = BetterStats_01_Basic,
+    translation = BetterStats_EnableCompactHUD,
+}
+
+option BetterStats.AllowDetailedPanel
+{
+    type = boolean,
+    default = false,
+    page = BetterStats_01_Basic,
+    translation = BetterStats_AllowDetailedPanel,
+}
+
+option BetterStats.AllowHUDDrag
+{
+    type = boolean,
+    default = true,
+    page = BetterStats_01_Basic,
+    translation = BetterStats_AllowHUDDrag,
+}
+
+option BetterStats.ShowCompactStatusBars
+{
+    type = boolean,
+    default = true,
+    page = BetterStats_01_Basic,
+    translation = BetterStats_ShowCompactStatusBars,
+}
+
+option BetterStats.TrackDistance
+{
+    type = boolean,
+    default = true,
+    page = BetterStats_02_Tracking,
+    translation = BetterStats_TrackDistance,
+}
+
+option BetterStats.TrackCalories
+{
+    type = boolean,
+    default = true,
+    page = BetterStats_02_Tracking,
+    translation = BetterStats_TrackCalories,
+}

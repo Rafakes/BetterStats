@@ -1,0 +1,16 @@
+{
+  "Sandbox_BetterStats_01_Basic": "Better Stats - 基本",
+  "Sandbox_BetterStats_02_Tracking": "Better Stats - 追蹤",
+  "Sandbox_BetterStats_EnableCompactHUD": "啟用緊湊 HUD",
+  "Sandbox_BetterStats_EnableCompactHUD_tooltip": "小型預設 HUD 的總開關。建議開啟。",
+  "Sandbox_BetterStats_AllowDetailedPanel": "允許詳細面板",
+  "Sandbox_BetterStats_AllowDetailedPanel_tooltip": "預設關閉。啟用後，玩家可按需開啟較大的分析面板，不會增加持續伺服器流量。",
+  "Sandbox_BetterStats_AllowHUDDrag": "允許拖動 HUD",
+  "Sandbox_BetterStats_AllowHUDDrag_tooltip": "允許玩家用滑鼠移動緊湊 HUD，並在本機儲存位置。",
+  "Sandbox_BetterStats_ShowCompactStatusBars": "顯示緊湊狀態列",
+  "Sandbox_BetterStats_ShowCompactStatusBars_tooltip": "在緊湊 HUD 上顯示飢餓、口渴和耐力的小狀態列。",
+  "Sandbox_BetterStats_TrackDistance": "追蹤移動距離",
+  "Sandbox_BetterStats_TrackDistance_tooltip": "此角色的客戶端本機距離追蹤。非常輕量，且適合多人遊戲。",
+  "Sandbox_BetterStats_TrackCalories": "追蹤卡路里差額",
+  "Sandbox_BetterStats_TrackCalories_tooltip": "可用時，從玩家本機營養資料追蹤攝取與消耗的卡路里。"
+}
